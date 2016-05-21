@@ -12,3 +12,6 @@ gacrossover, gamutation, and gaselection are modules that contain code for the m
 gacomparesimulation is a simulation of a listener that would be played files based on the three properties the genetic algorithm determines.
 
 Finally, gaevaluation contains methods relating to my scientific testing, calculating average parametric error and diversity.
+
+# Notes
+Some of my comments, especially at the top of the GA module, are notes to my self and to do lists.
